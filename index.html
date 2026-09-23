@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Nosso Feriado</title>
+  <meta name="theme-color" content="#FBF6F1">
+  <meta name="description" content="Um convite para o feriado de 10 a 12 de outubro.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%235B1F2E'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='monospace' font-size='26' font-weight='700' fill='%23F4E1DF'%3E%3C/%3E%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ===================== TELA 1: CONTRATO ===================== -->
+  <section id="tela-contrato" class="tela ativa" aria-labelledby="contrato-titulo">
+    <div class="contrato-fundo">
+      <article class="contrato" id="contrato">
+        <header class="contrato-topo">
+          <p class="logo logo-contrato" aria-label="Lucas">Lucas <span class="logo-tag">&lt;/&gt;</span></p>
+          <p class="eyebrow">Instrumento particular · Nova Friburgo, RJ</p>
+          <h1 id="contrato-titulo">Contrato de Fim de Semana</h1>
+          <p class="contrato-datas"><span class="num">10</span> a <span class="num">12</span> de outubro de <span class="num">2026</span></p>
+        </header>
+
+        <div class="partes">
+          <div>
+            <p class="rotulo">Contratante</p>
+            <p class="parte-nome" data-nome="ele"></p>
+          </div>
+          <div>
+            <p class="rotulo">Contratada</p>
+            <p class="parte-nome" data-nome="ela"></p>
+          </div>
+        </div>
+
+        <ol class="clausulas">
+          <li>
+            <h2>Do objeto</h2>
+            <p>A Contratada é convidada a passar o feriado de Nossa Senhora Aparecida, de sábado a segunda, ao lado do Contratante, em Friburgo e arredores.</p>
+          </li>
+          <li>
+            <h2>Das obrigações do Contratante</h2>
+            <p>O Contratante se compromete a buscar, levar, pagar todas as refeições previstas neste roteiro e não reclamar da demora para escolher a sobremesa.</p>
+          </li>
+          <li>
+            <h2>Dos direitos da Contratada</h2>
+            <p>Cabe exclusivamente à Contratada escolher os restaurantes de cada refeição entre as opções apresentadas, podendo mudar de ideia quantas vezes quiser.</p>
+          </li>
+          <li>
+            <h2>Das condutas</h2>
+            <p>Durante as refeições, fica vedado o uso recreativo do celular, salvo para fotos do prato e do casal.</p>
+          </li>
+          <li>
+            <h2>Da vigência e rescisão</h2>
+            <p>Este contrato vigora por todo o feriado e é renovável automaticamente. Não há cláusula de rescisão.</p>
+          </li>
+        </ol>
+
+        <div class="assinatura-bloco">
+          <p class="pergunta">Você está disposta a passar esse fim de semana comigo?</p>
+
+          <div class="assinatura-area" id="assinatura-area">
+            <canvas id="assinatura" aria-label="Área para assinar com o dedo ou o mouse"></canvas>
+            <span class="assinatura-dica" id="assinatura-dica">Assine aqui com o dedo</span>
+            <div class="selo" id="selo" aria-hidden="true">
+              <svg viewBox="0 0 120 120">
+                <defs>
+                  <path id="selo-circulo" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/>
+                </defs>
+                <circle cx="60" cy="60" r="56" class="selo-borda"/>
+                <circle cx="60" cy="60" r="35" class="selo-miolo"/>
+                <text class="selo-texto"><textPath href="#selo-circulo">ACEITO · COM AMOR · ACEITO · </textPath></text>
+                <path class="selo-coracao" d="M60 76 C44 64 40 56 40 50 C40 43.5 45 39 50.5 39 C54.5 39 58 41.5 60 45 C62 41.5 65.5 39 69.5 39 C75 39 80 43.5 80 50 C80 56 76 64 60 76 Z"/>
+              </svg>
+            </div>
+          </div>
+          <div class="linha-assinatura">
+            <span data-nome="ela"></span>
+          </div>
+
+          <div class="acoes">
+            <button type="button" class="btn-texto" id="btn-limpar">Limpar</button>
+            <button type="button" class="btn-primario" id="btn-assinar" disabled>Assinar e aceitar</button>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ===================== TELA 2: ROTEIRO ===================== -->
+  <section id="tela-roteiro" class="tela" aria-labelledby="roteiro-titulo">
+    <nav class="barra">
+      <div class="barra-in">
+        <span class="logo barra-marca" aria-label="Lucas">Lucas <span class="logo-tag">&lt;/&gt;</span></span>
+        <div class="barra-dias" id="barra-dias">
+          <a href="#dia-sab">Sáb</a>
+          <a href="#dia-dom">Dom</a>
+          <a href="#dia-seg">Seg</a>
+          <a href="#resumo">Resumo</a>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero">
+      <div class="hero-in">
+        <p class="eyebrow">Contrato assinado · <span data-nome="ela"></span> &amp; <span data-nome="ele"></span></p>
+        <h1 id="roteiro-titulo">Três dias,<br><em>só nós dois.</em></h1>
+        <p class="hero-sub">Escolhe onde a gente vai comer e o que fazer à tarde. Abre o cardápio de cada lugar e já decide o prato. Eu cuido do resto.</p>
+        <dl class="hero-numeros">
+          <div><dt>Dias</dt><dd class="num">3</dd></div>
+          <div><dt>Restaurantes</dt><dd class="num">8</dd></div>
+          <div><dt>Cinemas</dt><dd class="num">2</dd></div>
+        </dl>
+      </div>
+    </header>
+
+    <main id="roteiro" class="roteiro"></main>
+
+    <section id="resumo" class="resumo" aria-labelledby="resumo-titulo">
+      <div class="resumo-in">
+        <p class="eyebrow">Suas escolhas</p>
+        <h2 id="resumo-titulo">O nosso fim de semana</h2>
+        <ol id="resumo-lista" class="resumo-lista"></ol>
+        <p class="resumo-aviso" id="resumo-aviso"></p>
+        <a class="btn-primario btn-largo" id="btn-enviar" target="_blank" rel="noopener">Mandar minhas escolhas no WhatsApp</a>
+        <button type="button" class="btn-texto" id="btn-rever">Rever o contrato</button>
+      </div>
+    </section>
+
+    <footer class="rodape">
+      <p class="logo logo-rodape" aria-label="Lucas">Lucas <span class="logo-tag">&lt;/&gt;</span></p>
+      <p>Notas e horários do TripAdvisor em 23/09/2026. Cada cardápio mostra a fonte e a data, e os preços podem ter mudado. Em feriado os horários mudam, então as reservas serão confirmadas por telefone.</p>
+    </footer>
+  </section>
+
+  <!-- ===================== CARDÁPIO (modal) ===================== -->
+  <dialog id="cardapio" class="cardapio" aria-labelledby="cardapio-nome">
+    <div class="cardapio-caixa">
+      <header class="cardapio-topo">
+        <div>
+          <p class="eyebrow">Cardápio</p>
+          <h2 id="cardapio-nome"></h2>
+          <p class="cardapio-fonte" id="cardapio-fonte"></p>
+        </div>
+        <button type="button" class="cardapio-fechar" id="cardapio-fechar" aria-label="Fechar cardápio">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </header>
+      <div class="cardapio-corpo" id="cardapio-corpo"></div>
+    </div>
+  </dialog>
+
+  <div class="coracoes" id="coracoes" aria-hidden="true"></div>
+
+  <script src="cardapios.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

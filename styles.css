@@ -379,6 +379,66 @@ button { font: inherit; cursor: pointer; }
 .ativ-capa.cinema::before { top: 12px; }
 .ativ-capa.cinema::after { bottom: 12px; }
 
+/* painel de filmes (quando ela escolhe cinema) */
+.filmes {
+  margin-top: 22px; padding: 24px 22px;
+  background: var(--branco); border: 1px solid var(--linha);
+  border-top: 3px solid var(--vinho);
+  border-radius: 14px; box-shadow: var(--sombra);
+  animation: aparecer 0.5s ease both;
+}
+.filmes[hidden] { display: none; }
+.filmes-topo h4 { font-family: var(--serifa); font-size: 1.7rem; font-weight: 700; color: var(--vinho); line-height: 1.15; margin-top: 4px; }
+.filmes-sub { color: var(--texto-2); font-size: 0.95rem; margin-top: 8px; }
+.filmes-aviso {
+  margin-top: 16px; font-size: 0.95rem; color: var(--texto);
+  background: var(--blush); border-radius: var(--raio); padding: 12px 14px;
+}
+.filmes-aviso a, .filmes-rodape a { color: var(--rosa-texto); }
+.filmes-rodape { margin-top: 16px; font-size: 0.8rem; color: var(--texto-3); }
+
+.filmes-lista { list-style: none; margin-top: 12px; }
+.filme {
+  display: grid; grid-template-columns: 76px 1fr; gap: 14px;
+  padding: 14px 0; border-bottom: 1px solid var(--linha);
+}
+.filme:last-child { border-bottom: 0; }
+.filme-poster {
+  width: 76px; aspect-ratio: 2 / 3; object-fit: cover;
+  border-radius: 8px; background: var(--blush);
+}
+.filme-info h5 { font-family: var(--serifa); font-size: 1.35rem; font-weight: 700; line-height: 1.15; color: var(--texto); }
+.filme-meta { font-size: 0.85rem; color: var(--texto-3); margin-top: 2px; }
+.filme-classe {
+  display: inline-grid; place-items: center; min-width: 22px; height: 20px; padding: 0 5px; margin-right: 6px;
+  font-size: 0.72rem; font-weight: 700; color: var(--creme); background: var(--vinho); border-radius: 4px;
+}
+.previa .filme { grid-template-columns: 52px 1fr; padding: 10px 0; }
+.previa .filme-poster { width: 52px; }
+.previa .filme-info h5 { font-size: 1.15rem; }
+
+.sessoes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.sessao {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  min-width: 76px; min-height: 48px; padding: 4px 12px;
+  background: var(--creme); color: var(--vinho);
+  border: 1px solid var(--linha-forte); border-radius: 12px;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+.sessao strong { font-size: 1.05rem; line-height: 1.1; }
+.sessao small { font-size: 0.7rem; color: var(--texto-3); }
+.sessao:hover { border-color: var(--rosa); background: var(--blush); }
+.sessao.on { background: var(--vinho); border-color: var(--vinho); color: var(--creme); }
+.sessao.on small { color: var(--blush); }
+.sessao.fora { opacity: 0.5; }
+.sessao-escolhida { margin-top: 10px; font-size: 0.88rem; color: var(--vinho); font-weight: 600; }
+.sessao-escolhida a { color: var(--rosa-texto); }
+
+.filmes-todos { margin-top: 14px; border-top: 1px solid var(--linha); padding-top: 12px; }
+.filmes-todos summary { cursor: pointer; font-weight: 700; color: var(--vinho); min-height: 32px; }
+
+.resumo-o-que small { display: block; font-weight: 400; font-size: 0.82rem; color: var(--texto-2); }
+
 /* resumo */
 .resumo { margin-top: 72px; background: var(--blush); }
 .resumo-in { max-width: 640px; margin: 0 auto; padding: 72px 16px; text-align: center; }

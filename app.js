@@ -175,6 +175,20 @@ const DIAS = [
   },
 ];
 
+/* Janela de cada tarde: a sessão tem que começar depois do almoço e
+   acabar (filme + 20 min de trailers) antes do compromisso da noite. */
+const JANELAS = {
+  "sab-tarde": { data: "2026-10-10", de: "14:30", ate: "19:30", rotulo: "sábado, 10/10", motivo: "depois do almoço e a tempo do jantar das 20h" },
+  "dom-tarde": { data: "2026-10-11", de: "15:00", ate: "20:00", rotulo: "domingo, 11/10", motivo: "depois do almoço e antes da noite em casa" },
+};
+const TRAILERS = 20;
+let CINEMA = null; // cinema.json, atualizado pelo GitHub Actions a cada 3 horas
+
+fetch("cinema.json", { cache: "no-store" })
+  .then((r) => (r.ok ? r.json() : null))
+  .then((d) => { CINEMA = d || { erro: true }; Object.keys(JANELAS).forEach(renderFilmes); })
+  .catch(() => { CINEMA = { erro: true }; Object.keys(JANELAS).forEach(renderFilmes); });
+
 /* =============================================================
    ESTADO (localStorage protegido)
    ============================================================= */
@@ -185,7 +199,8 @@ function carregar() {
 function salvar() {
   try { localStorage.setItem(CHAVE, JSON.stringify(estado)); } catch { /* sem storage */ }
 }
-const estado = Object.assign({ assinado: false, escolhas: {} }, carregar());
+const estado = Object.assign({ assinado: false, escolhas: {}, sessoes: {} }, carregar());
+estado.sessoes = estado.sessoes || {};
 
 /* =============================================================
    UTILITÁRIOS
@@ -411,17 +426,31 @@ function renderRoteiro() {
                 <p class="momento-instrucao">Escolha ${m.opcoes.length === 2 ? "uma das duas opções" : `uma das ${m.opcoes.length} opções`}.</p>
                 ${m.aviso ? `<p class="momento-aviso">${esc(m.aviso)}</p>` : ""}
                 <div class="opcoes">${m.opcoes.map((o) => (RESTAURANTES[o] ? cartaoRestaurante(o, m) : cartaoAtividade(o, m))).join("")}</div>
+                ${JANELAS[m.id] ? `<div class="filmes" id="filmes-${m.id}" aria-live="polite" hidden></div>` : ""}
               `}
             </div>
           </li>`).join("")}
       </ol>
     </section>`).join("");
+  Object.keys(JANELAS).forEach(renderFilmes);
   renderResumo();
 }
 
 $("#roteiro").addEventListener("click", (e) => {
   const btnCard = e.target.closest(".btn-cardapio");
   if (btnCard) { abrirCardapio(btnCard.dataset.cardapio); return; }
+
+  const ses = e.target.closest(".sessao");
+  if (ses) {
+    const { m, filme, hora, audio, sala, link } = ses.dataset;
+    const atual = estado.sessoes[m];
+    estado.sessoes[m] = atual && atual.filme === filme && atual.hora === hora ? undefined
+      : { cinema: estado.escolhas[m], filme, hora, audio, sala, link };
+    salvar();
+    renderFilmes(m);
+    renderResumo();
+    return;
+  }
 
   const btn = e.target.closest(".btn-escolher");
   if (!btn) return;
@@ -436,8 +465,96 @@ $("#roteiro").addEventListener("click", (e) => {
     b.setAttribute("aria-pressed", on);
     b.textContent = on ? "Escolhido" : "Quero esse";
   });
+  if (JANELAS[momento]) {
+    if (estado.sessoes[momento] && estado.sessoes[momento].cinema !== estado.escolhas[momento]) estado.sessoes[momento] = undefined;
+    salvar();
+    renderFilmes(momento);
+    const painel = document.getElementById("filmes-" + momento);
+    if (painel && !painel.hidden) setTimeout(() => painel.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+  }
   renderResumo();
 });
+
+/* =============================================================
+   FILMES E HORÁRIOS
+   ============================================================= */
+const minutos = (h) => { const [a, b] = h.split(":").map(Number); return a * 60 + b; };
+const horaDe = (min) => `${String(Math.floor(min / 60)).padStart(2, "0")}:${String(min % 60).padStart(2, "0")}`;
+const AUDIO = { DUB: "Dublado", LEG: "Legendado", NAC: "Nacional" };
+
+function renderFilmes(mId) {
+  const box = document.getElementById("filmes-" + mId);
+  if (!box) return;
+  const escolha = estado.escolhas[mId];
+  const ativ = ATIVIDADES[escolha];
+  if (!ativ || !ativ.programacao) { box.innerHTML = ""; box.hidden = true; return; }
+  box.hidden = false;
+  const j = JANELAS[mId];
+  const topo = `
+    <header class="filmes-topo">
+      <p class="eyebrow">Filmes que cabem na tarde</p>
+      <h4>${esc(ativ.tipo)} · ${esc(j.rotulo)}</h4>
+      <p class="filmes-sub">Só aparecem sessões que começam a partir das ${j.de} e terminam até as ${j.ate}, ${esc(j.motivo)}. Toque no horário para escolher.</p>
+    </header>`;
+
+  if (!CINEMA) { box.innerHTML = topo + `<p class="filmes-aviso">Carregando a programação…</p>`; return; }
+  const cine = CINEMA.cinemas && CINEMA.cinemas[escolha];
+  if (!cine) {
+    box.innerHTML = topo + `<p class="filmes-aviso">Não consegui carregar a programação agora. <a href="${ativ.programacao}" target="_blank" rel="noopener">Ver no site do Cine Show</a>.</p>`;
+    return;
+  }
+
+  const doDia = (cine.dias || {})[j.data] || [];
+  const atualizado = CINEMA.atualizado ? new Date(CINEMA.atualizado).toLocaleString("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }) : "";
+  const rodape = `<p class="filmes-rodape">Programação do Cine Show, conferida a cada 3 horas${atualizado ? ` (última mudança em ${atualizado})` : ""}. <a href="${cine.url}" target="_blank" rel="noopener">Ver no site</a></p>`;
+  const cabe = (f, s) => minutos(s.hora) >= minutos(j.de) && minutos(s.hora) + f.duracao + TRAILERS <= minutos(j.ate);
+
+  // Programação da data ainda não saiu (só pré-venda): mostra o que está em cartaz agora
+  if (doDia.length < 3) {
+    const datas = Object.keys(cine.dias || {}).sort();
+    const ref = datas.find((d) => cine.dias[d].length >= 3) || datas[0];
+    const emCartaz = ref ? cine.dias[ref] : [];
+    box.innerHTML = topo + `
+      <p class="filmes-aviso">A programação de ${esc(j.rotulo)} ainda não saiu. O Cine Show publica a semana toda na quinta-feira anterior, dia 08/10. <strong>Esta lista se atualiza sozinha</strong>: é só voltar aqui depois.</p>
+      ${doDia.length ? `<p class="filmes-sub">Já em pré-venda para ${esc(j.rotulo)}:</p>
+      <ul class="filmes-lista">${doDia.map((f) => cartaoFilme(f, f.sessoes, mId, (s) => !cabe(f, s))).join("")}</ul>` : ""}
+      ${emCartaz.length ? `<p class="filmes-sub">Em cartaz agora, para ir namorando:</p>
+      <ul class="filmes-lista previa">${emCartaz.map((f) => cartaoFilme(f, [], mId)).join("")}</ul>` : ""}
+      ${rodape}`;
+    return;
+  }
+
+  const bons = doDia.map((f) => ({ f, s: f.sessoes.filter((s) => cabe(f, s)) })).filter((x) => x.s.length);
+  box.innerHTML = topo +
+    (bons.length
+      ? `<ul class="filmes-lista">${bons.map((x) => cartaoFilme(x.f, x.s, mId)).join("")}</ul>`
+      : `<p class="filmes-aviso">Nenhuma sessão desse cinema cabe entre o almoço e a noite. Tenta o outro cinema ou veja todos os horários abaixo.</p>`) +
+    `<details class="filmes-todos"><summary>Ver todos os horários do dia</summary>
+      <ul class="filmes-lista">${doDia.map((f) => cartaoFilme(f, f.sessoes, mId, (s) => !cabe(f, s))).join("")}</ul>
+    </details>` + rodape;
+}
+
+function cartaoFilme(f, sessoes, mId, fora = () => false) {
+  const sel = estado.sessoes[mId];
+  const duracao = f.duracao ? ` · ${Math.floor(f.duracao / 60)}h${String(f.duracao % 60).padStart(2, "0")}` : "";
+  const escolhidaAqui = sel && sel.filme === f.titulo && sessoes.some((s) => s.hora === sel.hora);
+  return `
+    <li class="filme">
+      ${f.poster ? `<img class="filme-poster" src="${esc(f.poster)}" alt="Pôster de ${esc(f.titulo)}" loading="lazy">` : `<div class="filme-poster"></div>`}
+      <div class="filme-info">
+        <h5>${esc(f.titulo)}</h5>
+        <p class="filme-meta">${f.classificacao ? `<span class="filme-classe">${esc(f.classificacao)}</span>` : ""}${esc(f.genero)}${duracao}</p>
+        ${sessoes.length ? `<div class="sessoes">${sessoes.map((s) => {
+          const on = sel && sel.filme === f.titulo && sel.hora === s.hora;
+          const fim = f.duracao ? horaDe(minutos(s.hora) + f.duracao + TRAILERS) : "";
+          return `<button type="button" class="sessao${on ? " on" : ""}${fora(s) ? " fora" : ""}" aria-pressed="${on}"
+            data-m="${mId}" data-filme="${esc(f.titulo)}" data-hora="${s.hora}" data-audio="${esc(s.audio)}" data-sala="${esc(s.sala)}" data-link="${esc(s.link)}"
+            title="${esc(s.sala)}${fim ? ` · termina por volta das ${fim}` : ""}"><strong class="num">${s.hora}</strong><small>${esc(AUDIO[s.audio] || s.audio)}</small></button>`;
+        }).join("")}</div>` : ""}
+        ${escolhidaAqui ? `<p class="sessao-escolhida">Sessão escolhida: ${esc(sel.hora)}, ${esc(AUDIO[sel.audio] || sel.audio)}, ${esc(sel.sala)}${sel.link ? ` · <a href="${esc(sel.link)}" target="_blank" rel="noopener">comprar ingressos</a>` : ""}</p>` : ""}
+      </div>
+    </li>`;
+}
 
 /* =============================================================
    CARDÁPIO (modal)
@@ -488,9 +605,10 @@ function renderResumo() {
   const feitas = lista.filter((m) => estado.escolhas[m.id]);
   $("#resumo-lista").innerHTML = lista.map((m) => {
     const r = item(estado.escolhas[m.id]);
+    const ses = estado.sessoes[m.id];
     return `<li class="${r ? "ok" : ""}">
       <span class="resumo-quando">${m.dia} · <span class="num">${m.hora}</span></span>
-      <span class="resumo-o-que">${r ? esc(r.nome) : "Ainda não escolhido"}</span>
+      <span class="resumo-o-que">${r ? esc(r.nome) : "Ainda não escolhido"}${ses ? `<small>${esc(ses.filme)} · ${esc(ses.hora)}</small>` : ""}</span>
     </li>`;
   }).join("");
 
@@ -502,7 +620,11 @@ function renderResumo() {
   const texto = [
     `Assinei o contrato, ${CONFIG.nomeDele}. Minhas escolhas para o feriado:`,
     "",
-    ...lista.map((m) => `• ${m.dia}, ${m.hora} (${m.titulo}): ${item(estado.escolhas[m.id])?.nome || "você escolhe"}`),
+    ...lista.map((m) => {
+      const ses = estado.sessoes[m.id];
+      const extra = ses ? ` — ${ses.filme}, sessão das ${ses.hora} (${AUDIO[ses.audio] || ses.audio}, ${ses.sala})` : "";
+      return `• ${m.dia}, ${m.hora} (${m.titulo}): ${item(estado.escolhas[m.id])?.nome || "você escolhe"}${extra}`;
+    }),
     "",
     `— ${CONFIG.nomeDela}`,
   ].join("\n");

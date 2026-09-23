@@ -1,0 +1,748 @@
+{
+ "atualizado": "2026-09-23T18:47+00:00",
+ "cinemas": {
+  "cadima": {
+   "nome": "Cine Show · Cadima Shopping",
+   "url": "https://cineshow.com.br/cadima-shopping/programacao",
+   "dias": {
+    "2026-09-23": [
+     {
+      "titulo": "A Maravilhosa Árvore Encantada",
+      "classificacao": "6",
+      "genero": "Fantasia, Família, Aventura",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17076_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:50",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87016468&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-maravilhosa-arvore-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Da Magia à Sedução: Feitiço de Amor",
+      "classificacao": "12",
+      "genero": "Romance, Fantasia",
+      "duracao": 130,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16892_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87017083&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=da-magia-a-seducao-feitico-de-amor"
+       }
+      ]
+     },
+     {
+      "titulo": "Gatos No Museu 2: Tesouros Do Egito",
+      "classificacao": "6",
+      "genero": "Família, Comédia, Aventura, Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16825_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:10",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87016894&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=gatos-no-museu-2-tesouros-do-egito"
+       }
+      ]
+     },
+     {
+      "titulo": "Homem-Aranha: Um Novo Dia",
+      "classificacao": "12",
+      "genero": "Ficção-científica, Aventura, Ação",
+      "duracao": 145,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16312_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87016922&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=homem-aranha-um-novo-dia"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87016414&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87016487&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87016441&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87016957&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87016920&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     }
+    ],
+    "2026-09-24": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889776&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-25": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889691&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-26": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889692&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-27": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889682&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-28": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889683&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-29": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889693&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ],
+    "2026-09-30": [
+     {
+      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
+      "classificacao": "12",
+      "genero": "Fantasia, Aventura, Ação",
+      "duracao": 182,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=86889695&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "friburgoShopping": {
+   "nome": "Cine Show · Friburgo Shopping",
+   "url": "https://cineshow.com.br/friburgo-shopping/programacao",
+   "dias": {
+    "2026-09-23": [
+     {
+      "titulo": "Antártida",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 94,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17410_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87016992&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=antartida"
+       }
+      ]
+     },
+     {
+      "titulo": "Código: Vingança",
+      "classificacao": "16",
+      "genero": "Thriller, Ação",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16377_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87007705&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=codigo-vinganca"
+       }
+      ]
+     },
+     {
+      "titulo": "Homem-Aranha: Um Novo Dia",
+      "classificacao": "12",
+      "genero": "Ficção-científica, Aventura, Ação",
+      "duracao": 145,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16312_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87005951&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=homem-aranha-um-novo-dia"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87005993&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=homem-aranha-um-novo-dia"
+       }
+      ]
+     },
+     {
+      "titulo": "Masha e os Ursos",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 79,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16790_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87075084&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=masha-e-os-ursos"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87007664&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87008027&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87005887&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "No Limite da Justiça",
+      "classificacao": "16",
+      "genero": "Suspense",
+      "duracao": 106,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17244_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87051336&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=no-limite-da-justica"
+       }
+      ]
+     }
+    ],
+    "2026-09-24": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121224&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121366&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121273&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121399&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121328&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-25": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121245&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121290&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121545&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121367&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121247&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121266&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-26": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121368&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121369&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121509&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121244&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121606&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121393&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-27": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121550&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121267&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121466&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121255&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121548&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121559&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-28": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121535&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121325&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121269&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121551&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121441&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121588&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-29": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121594&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121249&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121577&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121370&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121299&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121607&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-09-30": [
+     {
+      "titulo": "Marido de Aluguel",
+      "classificacao": "14",
+      "genero": "Comédia",
+      "duracao": 85,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121511&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121248&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121631&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121517&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:25",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121331&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:45",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87121472&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

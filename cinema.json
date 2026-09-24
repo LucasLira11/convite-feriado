@@ -1,57 +1,10 @@
 {
- "atualizado": "2026-09-23T23:39+00:00",
+ "atualizado": "2026-09-24T04:45+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-09-23": [
-     {
-      "titulo": "Homem-Aranha: Um Novo Dia",
-      "classificacao": "12",
-      "genero": "Ficção-científica, Aventura, Ação",
-      "duracao": 145,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16312_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:30",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87016922&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=homem-aranha-um-novo-dia"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87016441&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Resident Evil",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:10",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87016920&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
-       }
-      ]
-     }
-    ],
     "2026-09-24": [
      {
       "titulo": "Vingadores: Ultimato Encore (Relançamento)",
@@ -177,53 +130,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-09-23": [
-     {
-      "titulo": "Homem-Aranha: Um Novo Dia",
-      "classificacao": "12",
-      "genero": "Ficção-científica, Aventura, Ação",
-      "duracao": 145,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16312_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87005993&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=homem-aranha-um-novo-dia"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87005887&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "No Limite da Justiça",
-      "classificacao": "16",
-      "genero": "Suspense",
-      "duracao": 106,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17244_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87051336&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=no-limite-da-justica"
-       }
-      ]
-     }
-    ],
     "2026-09-24": [
      {
       "titulo": "Marido de Aluguel",
@@ -232,18 +138,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153167&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153186&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -272,18 +166,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153174&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153170&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -302,6 +184,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153211&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-25": [
@@ -312,18 +209,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153175&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153171&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -352,18 +237,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153189&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153193&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -382,6 +255,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121266&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153252&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-26": [
@@ -392,18 +280,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153165&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153166&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -432,18 +308,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153185&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153168&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -462,6 +326,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121393&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153210&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-27": [
@@ -472,18 +351,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153182&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153173&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -512,18 +379,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153187&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153195&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -542,6 +397,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121559&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153214&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-28": [
@@ -552,18 +422,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153181&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153190&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -622,6 +480,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121588&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153336&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-29": [
@@ -672,18 +545,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153197&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153184&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -702,6 +563,21 @@
         "link": "https://checkout.ingresso.com/?sessionId=87121607&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153215&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
      }
     ],
     "2026-09-30": [
@@ -712,18 +588,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "11:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153192&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "13:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153180&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "15:30",
         "sala": "Sala 03",
@@ -752,18 +616,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "11:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153177&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "12:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87153169&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "16:00",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -780,6 +632,21 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87121472&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "One Piece: O Filme!",
+      "classificacao": "12",
+      "genero": "Aventura, Animação",
+      "duracao": 51,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87153273&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
        }
       ]
      }

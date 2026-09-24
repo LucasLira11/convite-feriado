@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-24T04:45+00:00",
+ "atualizado": "2026-09-24T21:28+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -139,12 +139,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
        {
-        "hora": "15:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121224&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
         "hora": "18:50",
         "sala": "Sala 03",
         "audio": "NAC",
@@ -166,12 +160,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:00",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121399&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "18:25",
         "sala": "Sala 01",
         "audio": "NAC",
@@ -182,21 +170,6 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87121260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "One Piece: O Filme!",
-      "classificacao": "12",
-      "genero": "Aventura, Animação",
-      "duracao": 51,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87153211&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
        }
       ]
      }

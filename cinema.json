@@ -1,27 +1,10 @@
 {
- "atualizado": "2026-09-24T21:28+00:00",
+ "atualizado": "2026-09-25T04:53+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-09-24": [
-     {
-      "titulo": "Vingadores: Ultimato Encore (Relançamento)",
-      "classificacao": "12",
-      "genero": "Fantasia, Aventura, Ação",
-      "duracao": 182,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/7035_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=86889776&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-ultimato-encore-relancamento"
-       }
-      ]
-     }
-    ],
     "2026-09-25": [
      {
       "titulo": "Vingadores: Ultimato Encore (Relançamento)",
@@ -130,51 +113,34 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-09-24": [
+    "2026-09-25": [
      {
-      "titulo": "Marido de Aluguel",
-      "classificacao": "14",
-      "genero": "Comédia",
-      "duracao": 85,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:50",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121366&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156863&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
        },
        {
-        "hora": "20:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121273&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156883&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156864&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
        }
       ]
      },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:25",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121328&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     }
-    ],
-    "2026-09-25": [
      {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",
@@ -247,6 +213,33 @@
     ],
     "2026-09-26": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156875&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156882&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156868&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",
       "genero": "Comédia",
@@ -318,6 +311,33 @@
     ],
     "2026-09-27": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156862&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156873&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156880&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",
       "genero": "Comédia",
@@ -388,6 +408,33 @@
      }
     ],
     "2026-09-28": [
+     {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156870&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156865&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156874&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
      {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",
@@ -472,6 +519,33 @@
     ],
     "2026-09-29": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156866&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156867&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156879&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",
       "genero": "Comédia",
@@ -554,6 +628,33 @@
      }
     ],
     "2026-09-30": [
+     {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156876&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156884&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87156877&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
      {
       "titulo": "Marido de Aluguel",
       "classificacao": "14",

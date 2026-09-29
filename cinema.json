@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-29T00:58+00:00",
+ "atualizado": "2026-09-29T18:03+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 110,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:35",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157896&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
        {
         "hora": "16:45",
         "sala": "Sala 02",
@@ -41,12 +35,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157843&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
-       {
         "hora": "16:30",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -67,12 +55,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87157824&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "16:20",
         "sala": "Sala 03",

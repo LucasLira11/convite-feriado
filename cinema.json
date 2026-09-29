@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-29T18:03+00:00",
+ "atualizado": "2026-09-29T22:12+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -14,37 +14,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:45",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157893&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
-       {
         "hora": "19:00",
         "sala": "Sala 02",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157868&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       }
-      ]
-     },
-     {
-      "titulo": "Coração Selvagem",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 101,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157842&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87157840&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
        }
       ]
      },
@@ -55,18 +28,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87157876&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87157823&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 03",
@@ -368,18 +329,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
        {
-        "hora": "15:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87156866&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
-       {
-        "hora": "17:50",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87156867&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
-       {
         "hora": "20:00",
         "sala": "Sala 02",
         "audio": "DUB",
@@ -394,18 +343,6 @@
       "duracao": 85,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
-       {
-        "hora": "15:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121594&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
-        "hora": "18:50",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121249&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
        {
         "hora": "20:40",
         "sala": "Sala 03",
@@ -422,37 +359,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:00",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121370&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "18:25",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121299&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "20:45",
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87121607&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "One Piece: O Filme!",
-      "classificacao": "12",
-      "genero": "Aventura, Animação",
-      "duracao": 51,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17562_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87153215&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
        }
       ]
      }

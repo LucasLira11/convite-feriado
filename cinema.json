@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-30T12:30+00:00",
+ "atualizado": "2026-09-30T19:59+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 110,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:35",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157836&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
        {
         "hora": "16:45",
         "sala": "Sala 02",
@@ -41,18 +35,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157873&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
-       {
-        "hora": "16:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157871&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
-       {
         "hora": "18:30",
         "sala": "Sala 01",
         "audio": "LEG",
@@ -67,18 +49,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87157857&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "16:20",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87157825&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 03",
@@ -135,6 +105,84 @@
     ],
     "2026-10-01": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226771&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226764&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226754&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226736&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226746&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226696&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226718&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
       "titulo": "Verity",
       "classificacao": "16",
       "genero": "Drama",
@@ -142,16 +190,106 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226752&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157837&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226745&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
     ],
     "2026-10-02": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226776&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226738&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226716&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226699&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226700&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226770&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226733&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
       "titulo": "Verity",
       "classificacao": "16",
       "genero": "Drama",
@@ -159,16 +297,106 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226739&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157875&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226756&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
     ],
     "2026-10-03": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226761&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226750&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226769&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226778&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226713&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226759&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226753&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
       "titulo": "Verity",
       "classificacao": "16",
       "genero": "Drama",
@@ -176,16 +404,112 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226747&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226755&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157888&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226773&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
     ],
     "2026-10-04": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226741&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226743&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226749&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226737&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226758&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226715&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226735&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
       "titulo": "Verity",
       "classificacao": "16",
       "genero": "Drama",
@@ -193,16 +517,112 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226708&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226720&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157821&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226780&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
     ],
     "2026-10-05": [
      {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226768&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226707&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226706&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226772&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226765&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226724&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226701&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
       "titulo": "Verity",
       "classificacao": "16",
       "genero": "Drama",
@@ -210,32 +630,105 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226751&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157854&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226742&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
     ],
     "2026-10-06": [
      {
-      "titulo": "Verity",
-      "classificacao": "16",
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
       "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:40",
-        "sala": "Sala 01",
+        "hora": "15:05",
+        "sala": "Sala 03",
         "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157874&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+        "link": "https://checkout.ingresso.com/?sessionId=87226779&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
        }
       ]
-     }
-    ],
-    "2026-10-07": [
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226719&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226710&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226698&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226734&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226766&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226767&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
      {
       "titulo": "Verity",
       "classificacao": "16",
@@ -244,10 +737,129 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
        {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226740&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87157874&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226774&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-07": [
+     {
+      "titulo": "A Ilha Esquecida",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 110,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226677&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
+       }
+      ]
+     },
+     {
+      "titulo": "Coração Selvagem",
+      "classificacao": "14",
+      "genero": "Drama",
+      "duracao": 101,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226775&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       },
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226717&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:10",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226744&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226709&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226748&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Resident Evil",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226711&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226763&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
         "hora": "18:40",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87157862&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226777&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
@@ -266,12 +878,6 @@
       "duracao": 110,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
       "sessoes": [
-       {
-        "hora": "15:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87156876&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       },
        {
         "hora": "17:50",
         "sala": "Sala 02",
@@ -294,12 +900,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16519_medio.jpg",
       "sessoes": [
        {
-        "hora": "15:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121511&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=marido-de-aluguel"
-       },
-       {
         "hora": "18:50",
         "sala": "Sala 03",
         "audio": "NAC",
@@ -320,12 +920,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87121517&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "18:25",
         "sala": "Sala 01",
@@ -352,6 +946,716 @@
         "sala": "Sala 03",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87153273&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=one-piece-o-filme"
+       }
+      ]
+     }
+    ],
+    "2026-10-01": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226507&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226578&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226487&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226436&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226444&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226573&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226541&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226491&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226511&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226562&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-02": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226552&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226515&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226419&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226574&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226557&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226551&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226548&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226545&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226456&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226553&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-03": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226498&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226359&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226544&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226556&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226570&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226387&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226480&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226577&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226517&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226580&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226471&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226410&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-04": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226458&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226527&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226567&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226581&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226529&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226555&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226477&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226416&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226450&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226476&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226473&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226572&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-05": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226530&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226584&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226460&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226462&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226516&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226563&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226524&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226493&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226483&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226550&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-06": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226537&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226525&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226478&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226481&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226549&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226593&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226587&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226475&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226379&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-07": [
+     {
+      "titulo": "A Queda 2: No Limite",
+      "classificacao": "A14",
+      "genero": "Thriller, Mistério, Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226591&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       },
+       {
+        "hora": "21:15",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226501&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226398&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87226494&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87226497&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "6",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226495&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226589&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226582&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "18:50",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226569&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87226399&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
        }
       ]
      }

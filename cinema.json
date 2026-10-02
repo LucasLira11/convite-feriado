@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-02T00:45+00:00",
+ "atualizado": "2026-10-02T09:42+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -655,6 +655,64 @@
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87226777&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-12-15": [
+     {
+      "titulo": "Vingadores: Doutor Destino",
+      "classificacao": "",
+      "genero": "Aventura, Ação",
+      "duracao": 165,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/15049_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "00:01",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87243758&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       },
+       {
+        "hora": "00:10",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87243823&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       }
+      ]
+     }
+    ],
+    "2026-12-16": [
+     {
+      "titulo": "Vingadores: Doutor Destino",
+      "classificacao": "",
+      "genero": "Aventura, Ação",
+      "duracao": 165,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/15049_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "13:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87244158&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       },
+       {
+        "hora": "17:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87243438&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       },
+       {
+        "hora": "20:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87243651&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       },
+       {
+        "hora": "20:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87244146&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
        }
       ]
      }

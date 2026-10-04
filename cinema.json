@@ -1,26 +1,11 @@
 {
- "atualizado": "2026-10-04T05:47+00:00",
+ "atualizado": "2026-10-04T18:37+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-10-04": [
-     {
-      "titulo": "A Ilha Esquecida",
-      "classificacao": "10",
-      "genero": "Drama",
-      "duracao": 110,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "15:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226741&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       }
-      ]
-     },
      {
       "titulo": "Coração Selvagem",
       "classificacao": "14",
@@ -91,12 +76,6 @@
       "duracao": 114,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226708&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       },
        {
         "hora": "16:20",
         "sala": "Sala 01",
@@ -841,12 +820,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226555&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
-       },
-       {
         "hora": "15:45",
         "sala": "Sala 03",
         "audio": "NAC",
@@ -867,12 +840,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226450&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "16:30",
         "sala": "Sala 01",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-05T14:30+00:00",
+ "atualizado": "2026-10-05T21:59+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -7,33 +7,12 @@
    "dias": {
     "2026-10-05": [
      {
-      "titulo": "A Ilha Esquecida",
-      "classificacao": "10",
-      "genero": "Drama",
-      "duracao": 110,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16902_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "15:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226768&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-ilha-esquecida"
-       }
-      ]
-     },
-     {
       "titulo": "Coração Selvagem",
       "classificacao": "14",
       "genero": "Drama",
       "duracao": 101,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
       "sessoes": [
-       {
-        "hora": "17:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226707&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
        {
         "hora": "19:15",
         "sala": "Sala 03",
@@ -49,18 +28,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226772&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226765&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "20:50",
         "sala": "Sala 02",
@@ -91,12 +58,6 @@
       "duracao": 114,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226751&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 01",
@@ -701,43 +662,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226460&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226462&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 02",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87226516&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
-       }
-      ]
-     },
-     {
-      "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "L",
-      "genero": "Animação",
-      "duracao": 83,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "15:45",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226563&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
-       },
-       {
-        "hora": "17:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226524&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
        }
       ]
      },
@@ -748,12 +676,6 @@
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:30",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226493&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "18:50",
         "sala": "Sala 01",

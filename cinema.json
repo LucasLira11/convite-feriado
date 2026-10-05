@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-05T05:34+00:00",
+ "atualizado": "2026-10-05T14:30+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -722,7 +722,7 @@
      },
      {
       "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "6",
+      "classificacao": "L",
       "genero": "Animação",
       "duracao": 83,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
@@ -820,7 +820,7 @@
      },
      {
       "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "6",
+      "classificacao": "L",
       "genero": "Animação",
       "duracao": 83,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
@@ -918,7 +918,7 @@
      },
      {
       "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "6",
+      "classificacao": "L",
       "genero": "Animação",
       "duracao": 83,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",

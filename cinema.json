@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-07T00:39+00:00",
+ "atualizado": "2026-10-07T10:11+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -1522,6 +1522,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306360&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -1533,6 +1548,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289827&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306349&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306693&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1629,6 +1665,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306365&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -1640,6 +1691,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289790&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306691&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306339&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1736,6 +1808,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306358&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -1747,6 +1834,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289829&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306335&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306353&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1843,6 +1951,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306347&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -1854,6 +1977,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289832&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306376&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306368&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1950,6 +2094,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306373&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -1961,6 +2120,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289813&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306371&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306692&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -2057,6 +2237,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306377&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -2068,6 +2263,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289834&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306381&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306357&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -2164,6 +2380,21 @@
       ]
      },
      {
+      "titulo": "Hope - O Primeiro Impacto",
+      "classificacao": "16",
+      "genero": "Suspense, Ficção-científica, Drama, Ação",
+      "duracao": 157,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306370&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
+       }
+      ]
+     },
+     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
@@ -2175,6 +2406,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87289848&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306356&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87306394&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },

@@ -1,90 +1,10 @@
 {
- "atualizado": "2026-10-06T20:16+00:00",
+ "atualizado": "2026-10-07T00:39+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-10-06": [
-     {
-      "titulo": "Coração Selvagem",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 101,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17456_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226719&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       },
-       {
-        "hora": "19:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226710&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=coracao-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226734&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "20:50",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226766&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Resident Evil",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16553_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226767&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=resident-evil"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87157874&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87226774&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       }
-      ]
-     }
-    ],
     "2026-10-07": [
      {
       "titulo": "A Ilha Esquecida",
@@ -192,6 +112,902 @@
       ]
      }
     ],
+    "2026-10-08": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293593&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293594&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293608&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293606&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293600&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293610&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293595&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293613&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293589&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293617&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293597&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-09": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293603&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293596&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293629&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293601&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293631&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293599&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293623&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293602&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293622&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293612&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293598&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293605&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-10": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293611&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293604&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293616&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293624&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293648&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293646&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293635&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293630&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293607&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293619&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293634&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293609&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-11": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293633&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293618&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293625&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": ""
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293626&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293637&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293627&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293638&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293615&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293614&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293620&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293636&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-12": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293632&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293639&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293642&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293628&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293649&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293661&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293658&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293641&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293650&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293673&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293645&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293647&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-13": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293655&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293671&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293643&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293653&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293675&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293668&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293652&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293654&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293640&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293644&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293656&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293651&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-14": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "15:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293670&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "16:55",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293660&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Carros (20º Aniversario)",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 116,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/1609_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:15",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293662&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=carros-20-aniversario"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293659&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293674&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293667&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "A10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293665&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87293666&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293672&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293669&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293657&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293663&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
     "2026-12-15": [
      {
       "titulo": "Vingadores: Doutor Destino",
@@ -211,6 +1027,12 @@
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87243823&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
+       },
+       {
+        "hora": "00:10",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87293664&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
        }
       ]
      }
@@ -537,86 +1359,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-10-06": [
-     {
-      "titulo": "A Queda 2: No Limite",
-      "classificacao": "16",
-      "genero": "Thriller, Mistério, Aventura",
-      "duracao": 100,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16193_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "19:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226537&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
-       },
-       {
-        "hora": "21:15",
-        "sala": "Sala 03",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87226525&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-queda-2-no-limite"
-       }
-      ]
-     },
-     {
-      "titulo": "Digger",
-      "classificacao": "14",
-      "genero": "Comédia, Aventura, Ação",
-      "duracao": 129,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87226481&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87226549&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
-       }
-      ]
-     },
-     {
-      "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "L",
-      "genero": "Animação",
-      "duracao": 83,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226587&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:50",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226379&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
-        "hora": "21:10",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87226592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     }
-    ],
     "2026-10-07": [
      {
       "titulo": "A Queda 2: No Limite",
@@ -711,6 +1453,755 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87226399&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     }
+    ],
+    "2026-10-08": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289783&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289786&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289784&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289788&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289789&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289773&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289827&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289772&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289806&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289791&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-09": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289826&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289778&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289782&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289802&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289777&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289781&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289790&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289798&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289799&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289797&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-10": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289816&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289818&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289785&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289787&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289805&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289833&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289829&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289792&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289796&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289803&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-11": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289793&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289828&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289804&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289794&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289795&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289800&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289832&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289809&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289801&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289830&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-12": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289825&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289836&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289839&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289808&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289840&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289807&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289813&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289838&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289810&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289811&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-13": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289842&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289846&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289843&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289812&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289821&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289844&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289834&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289819&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289824&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289847&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-14": [
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289831&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       },
+       {
+        "hora": "15:55",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289822&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Digger",
+      "classificacao": "14",
+      "genero": "Comédia, Aventura, Ação",
+      "duracao": 129,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17256_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "17:50",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87289841&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=digger"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289837&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "15:45",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289820&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289823&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:05",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289848&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289845&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:15",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289849&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "18:10",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87289835&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
        }
       ]
      }

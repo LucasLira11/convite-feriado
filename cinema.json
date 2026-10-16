@@ -1,26 +1,11 @@
 {
- "atualizado": "2026-10-16T21:04+00:00",
+ "atualizado": "2026-10-16T23:33+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-10-16": [
-     {
-      "titulo": "Jogos Vorazes - Em Chamas (Relançamento)",
-      "classificacao": "14",
-      "genero": "Aventura, Ação",
-      "duracao": 146,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/5491_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87388113&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-em-chamas-relancamento"
-       }
-      ]
-     },
      {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
@@ -37,21 +22,6 @@
       ]
      },
      {
-      "titulo": "Se Eu Fosse Você 3",
-      "classificacao": "10",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:10",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87359289&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
-       }
-      ]
-     },
-     {
       "titulo": "Street Fighter",
       "classificacao": "14",
       "genero": "Animação",
@@ -59,31 +29,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386477&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
         "hora": "20:50",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87386646&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87365730&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
@@ -1073,12 +1022,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:50",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397401&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 02",
         "audio": "LEG",
@@ -1102,17 +1045,17 @@
       ]
      },
      {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87397388&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397366&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      }
@@ -1208,6 +1151,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87397406&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397423&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397377&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1328,6 +1292,27 @@
       ]
      },
      {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397481&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397382&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
       "titulo": "Um Tio Quase Perfeito 3",
       "classificacao": "6",
       "genero": "Comédia",
@@ -1440,6 +1425,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87397521&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397417&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397535&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },
@@ -1560,6 +1566,27 @@
       ]
      },
      {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397432&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397597&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
       "titulo": "Um Tio Quase Perfeito 3",
       "classificacao": "6",
       "genero": "Comédia",
@@ -1672,6 +1699,27 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87397437&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "19:15",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397372&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       },
+       {
+        "hora": "21:05",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87397595&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
        }
       ]
      },

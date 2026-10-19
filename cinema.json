@@ -1,57 +1,10 @@
 {
- "atualizado": "2026-10-18T23:08+00:00",
+ "atualizado": "2026-10-19T04:35+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-10-18": [
-     {
-      "titulo": "Jogos Vorazes: A Esperança - O Final (Relançamento)",
-      "classificacao": "12",
-      "genero": "Ficção-científica, Aventura",
-      "duracao": 137,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/6037_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87388111&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-a-esperanca-o-final-relancamento"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87366284&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Street Fighter",
-      "classificacao": "14",
-      "genero": "Animação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:50",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386642&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     }
-    ],
     "2026-10-19": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
@@ -772,53 +725,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-10-18": [
-     {
-      "titulo": "Dentro da Baleia",
-      "classificacao": "14",
-      "genero": "Suspense",
-      "duracao": 98,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87397587&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       }
-      ]
-     },
-     {
-      "titulo": "Hope - O Primeiro Impacto",
-      "classificacao": "16",
-      "genero": "Suspense, Ficção-científica, Drama, Ação",
-      "duracao": 157,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397415&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
-       }
-      ]
-     },
-     {
-      "titulo": "Outra Mamãe",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 93,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397382&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       }
-      ]
-     }
-    ],
     "2026-10-19": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",

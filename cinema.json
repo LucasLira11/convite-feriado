@@ -1,41 +1,11 @@
 {
- "atualizado": "2026-10-20T19:12+00:00",
+ "atualizado": "2026-10-20T23:50+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-10-20": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87360398&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
-      "titulo": "Jogos Vorazes (Relançamento)",
-      "classificacao": "14",
-      "genero": "Ação",
-      "duracao": 142,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/4753_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87388093&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-relancamento"
-       }
-      ]
-     },
      {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
@@ -52,21 +22,6 @@
       ]
      },
      {
-      "titulo": "Se Eu Fosse Você 3",
-      "classificacao": "10",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:10",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87359324&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
-       }
-      ]
-     },
-     {
       "titulo": "Street Fighter",
       "classificacao": "14",
       "genero": "Animação",
@@ -74,43 +29,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386495&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386647&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
         "hora": "20:50",
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87387495&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87360375&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87359317&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
@@ -239,6 +161,833 @@
         "sala": "Sala 02",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87360038&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-22": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427272&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427162&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427226&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427131&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427224&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427191&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427328&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427230&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427214&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427268&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427235&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427335&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-23": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427127&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427189&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427293&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427352&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427231&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427351&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427347&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427187&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427192&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427349&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427332&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427236&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-24": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427327&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427346&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427348&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427190&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427291&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427238&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427142&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427246&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427257&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427271&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427188&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427301&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-25": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427232&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427270&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427325&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427317&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427175&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427331&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427334&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427339&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427340&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427258&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427330&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427302&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-26": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427237&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427341&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427186&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427350&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427283&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427181&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427288&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427193&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427289&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427287&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427177&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427337&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-27": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427299&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427336&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427229&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427296&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427194&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427196&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427290&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       },
+       {
+        "hora": "16:25",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427303&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427333&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427262&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427259&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427184&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       }
+      ]
+     }
+    ],
+    "2026-10-28": [
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427185&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "16:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427261&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427292&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:50",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427183&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Minha Melhor Amiga",
+      "classificacao": "12",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427329&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427176&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
+       }
+      ]
+     },
+     {
+      "titulo": "Se Eu Fosse Você 3",
+      "classificacao": "10",
+      "genero": "Comédia",
+      "duracao": 119,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:50",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87427338&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Street Fighter",
+      "classificacao": "14",
+      "genero": "Animação",
+      "duracao": 90,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427182&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
+       }
+      ]
+     },
+     {
+      "titulo": "Verity",
+      "classificacao": "16",
+      "genero": "Drama",
+      "duracao": 114,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427326&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87427195&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
@@ -596,39 +1345,12 @@
    "dias": {
     "2026-10-20": [
      {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397596&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
       "titulo": "Dentro da Baleia",
       "classificacao": "14",
       "genero": "Suspense",
       "duracao": 98,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:45",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397403&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       },
-       {
-        "hora": "18:50",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397531&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 02",
@@ -653,21 +1375,6 @@
       ]
      },
      {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87397419&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
       "titulo": "Outra Mamãe",
       "classificacao": "18",
       "genero": "Terror",
@@ -675,31 +1382,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
       "sessoes": [
        {
-        "hora": "19:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397432&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       },
-       {
         "hora": "21:05",
         "sala": "Sala 03",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87397597&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       }
-      ]
-     },
-     {
-      "titulo": "Um Tio Quase Perfeito 3",
-      "classificacao": "6",
-      "genero": "Comédia",
-      "duracao": 95,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87397582&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
        }
       ]
      }
@@ -837,6 +1523,1091 @@
         "sala": "Sala 01",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87397434&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     }
+    ],
+    "2026-10-22": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426534&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426256&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426516&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426498&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426172&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426196&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426234&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426167&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426134&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426514&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426551&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426522&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-23": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426528&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426195&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426509&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426538&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426127&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426200&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426215&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426255&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426131&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426517&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426566&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426520&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-24": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426507&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426155&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426553&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426521&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426201&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426165&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426257&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426205&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426128&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426515&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426527&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426497&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-25": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426518&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426190&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426540&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426568&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426174&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426138&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426119&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426259&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426124&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426513&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426543&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426519&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-26": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426539&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426179&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426535&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426542&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426168&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426278&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426111&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426262&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426149&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426570&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426505&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426504&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-27": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426523&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426090&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426508&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426574&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426202&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426217&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426139&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426141&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426171&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426536&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426571&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426537&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       }
+      ]
+     }
+    ],
+    "2026-10-28": [
+     {
+      "titulo": "A Caixa do Demônio",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 105,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426561&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
+       }
+      ]
+     },
+     {
+      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
+      "classificacao": "10",
+      "genero": "Animação",
+      "duracao": 92,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426169&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
+       }
+      ]
+     },
+     {
+      "titulo": "Cara-De-Barro",
+      "classificacao": "18",
+      "genero": "Terror, Aventura, Ação",
+      "duracao": 108,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:15",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426563&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       },
+       {
+        "hora": "20:25",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426549&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
+       }
+      ]
+     },
+     {
+      "titulo": "Dentro da Baleia",
+      "classificacao": "14",
+      "genero": "Suspense",
+      "duracao": 98,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426219&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
+       }
+      ]
+     },
+     {
+      "titulo": "Galinha Pintadinha - O Filme",
+      "classificacao": "L",
+      "genero": "Animação",
+      "duracao": 83,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:40",
+        "sala": "Sala 02",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426166&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
+       }
+      ]
+     },
+     {
+      "titulo": "Outra Mamãe",
+      "classificacao": "18",
+      "genero": "Terror",
+      "duracao": 93,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426251&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
+       }
+      ]
+     },
+     {
+      "titulo": "Um Tio Quase Perfeito 3",
+      "classificacao": "6",
+      "genero": "Comédia",
+      "duracao": 95,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426245&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       },
+       {
+        "hora": "16:20",
+        "sala": "Sala 01",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87426241&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
+       }
+      ]
+     },
+     {
+      "titulo": "Willow e a Floresta Encantada",
+      "classificacao": "6",
+      "genero": "Aventura",
+      "duracao": 100,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426524&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
+       }
+      ]
+     },
+     {
+      "titulo": "Zona Zero",
+      "classificacao": "16",
+      "genero": "Thriller, Terror",
+      "duracao": 122,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87426558&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
+       },
+       {
+        "hora": "18:40",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87426506&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
        }
       ]
      }

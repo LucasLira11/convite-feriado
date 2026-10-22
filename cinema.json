@@ -1,78 +1,10 @@
 {
- "atualizado": "2026-10-21T21:39+00:00",
+ "atualizado": "2026-10-22T04:38+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-10-21": [
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87372874&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87360462&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Street Fighter",
-      "classificacao": "14",
-      "genero": "Animação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386645&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
-        "hora": "20:50",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87386643&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87360038&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       }
-      ]
-     }
-    ],
     "2026-10-22": [
      {
       "titulo": "Cara-De-Barro",
@@ -1412,80 +1344,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-10-21": [
-     {
-      "titulo": "Dentro da Baleia",
-      "classificacao": "14",
-      "genero": "Suspense",
-      "duracao": 98,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:50",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397368&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87397420&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       }
-      ]
-     },
-     {
-      "titulo": "Hope - O Primeiro Impacto",
-      "classificacao": "16",
-      "genero": "Suspense, Ficção-científica, Drama, Ação",
-      "duracao": 157,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17641_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397427&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=hope-o-primeiro-impacto"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87397437&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Outra Mamãe",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 93,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "19:15",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397372&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       },
-       {
-        "hora": "21:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87397595&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       }
-      ]
-     }
-    ],
     "2026-10-22": [
      {
       "titulo": "A Caixa do Demônio",

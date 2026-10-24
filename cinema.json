@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T20:44+00:00",
+ "atualizado": "2026-10-24T23:09+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 108,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
       "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427348&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
        {
         "hora": "20:50",
         "sala": "Sala 01",
@@ -50,31 +44,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427257&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
         "hora": "20:40",
         "sala": "Sala 03",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87427271&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427301&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
        }
       ]
      }
@@ -1102,31 +1075,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:15",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87426553&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
-       {
         "hora": "20:25",
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87426521&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Dentro da Baleia",
-      "classificacao": "14",
-      "genero": "Suspense",
-      "duracao": 98,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:35",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426201&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
        }
       ]
      },
@@ -1142,21 +1094,6 @@
         "sala": "Sala 03",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87426257&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       }
-      ]
-     },
-     {
-      "titulo": "Zona Zero",
-      "classificacao": "16",
-      "genero": "Thriller, Terror",
-      "duracao": 122,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87426497&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
        }
       ]
      }

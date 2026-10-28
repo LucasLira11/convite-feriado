@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T05:35+00:00",
+ "atualizado": "2026-10-28T20:14+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,18 +13,6 @@
       "duracao": 108,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427185&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
-       {
-        "hora": "16:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427261&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 01",
@@ -47,31 +35,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87427329&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87427176&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Se Eu Fosse Você 3",
-      "classificacao": "10",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:50",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87427338&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
        }
       ]
      },
@@ -103,12 +70,6 @@
       "duracao": 114,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427326&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 02",
@@ -1542,21 +1503,6 @@
       ]
      },
      {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426169&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
       "titulo": "Cara-De-Barro",
       "classificacao": "18",
       "genero": "Terror, Aventura, Ação",
@@ -1593,21 +1539,6 @@
       ]
      },
      {
-      "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "L",
-      "genero": "Animação",
-      "duracao": 83,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:40",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87426166&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
-       }
-      ]
-     },
-     {
       "titulo": "Outra Mamãe",
       "classificacao": "18",
       "genero": "Terror",
@@ -1623,54 +1554,12 @@
       ]
      },
      {
-      "titulo": "Um Tio Quase Perfeito 3",
-      "classificacao": "6",
-      "genero": "Comédia",
-      "duracao": 95,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87426245&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
-       },
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87426241&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
-       }
-      ]
-     },
-     {
-      "titulo": "Willow e a Floresta Encantada",
-      "classificacao": "6",
-      "genero": "Aventura",
-      "duracao": 100,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17394_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426524&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=willow-e-a-floresta-encantada"
-       }
-      ]
-     },
-     {
       "titulo": "Zona Zero",
       "classificacao": "16",
       "genero": "Thriller, Terror",
       "duracao": 122,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426558&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 03",

@@ -1,84 +1,10 @@
 {
- "atualizado": "2026-10-28T20:14+00:00",
+ "atualizado": "2026-10-29T00:52+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-10-28": [
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427292&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
-       {
-        "hora": "20:50",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427183&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87427176&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "Street Fighter",
-      "classificacao": "14",
-      "genero": "Animação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427260&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427182&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87427195&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       }
-      ]
-     }
-    ],
     "2026-10-29": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
@@ -139,7 +65,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -264,7 +190,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -389,7 +315,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -520,7 +446,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -651,7 +577,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -782,7 +708,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -907,7 +833,7 @@
      },
      {
       "titulo": "O Bosque Selvagem",
-      "classificacao": "",
+      "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
       "duracao": 130,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
@@ -1486,89 +1412,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-10-28": [
-     {
-      "titulo": "A Caixa do Demônio",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 105,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17611_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426561&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-caixa-do-demonio"
-       }
-      ]
-     },
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:15",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87426563&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
-       {
-        "hora": "20:25",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87426549&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Dentro da Baleia",
-      "classificacao": "14",
-      "genero": "Suspense",
-      "duracao": 98,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16819_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:35",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426219&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=dentro-da-baleia"
-       }
-      ]
-     },
-     {
-      "titulo": "Outra Mamãe",
-      "classificacao": "18",
-      "genero": "Terror",
-      "duracao": 93,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16953_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87426251&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=outra-mamae"
-       }
-      ]
-     },
-     {
-      "titulo": "Zona Zero",
-      "classificacao": "16",
-      "genero": "Thriller, Terror",
-      "duracao": 122,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17469_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87426506&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=zona-zero"
-       }
-      ]
-     }
-    ],
     "2026-10-29": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",

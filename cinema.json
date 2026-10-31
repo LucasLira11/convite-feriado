@@ -1,57 +1,10 @@
 {
- "atualizado": "2026-10-30T22:15+00:00",
+ "atualizado": "2026-10-31T05:35+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-10-30": [
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87514240&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
-      "titulo": "O Bosque Selvagem",
-      "classificacao": "14",
-      "genero": "Fantasia, Família, Aventura, Animação",
-      "duracao": 130,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:50",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87516275&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "Verity",
-      "classificacao": "16",
-      "genero": "Drama",
-      "duracao": 114,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17226_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:50",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515804&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=verity"
-       }
-      ]
-     }
-    ],
     "2026-10-31": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
@@ -1254,59 +1207,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-10-30": [
-     {
-      "titulo": "As Dez Vantagens de Morrer Depois de Você",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 102,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/14907_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522489&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       }
-      ]
-     },
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87522488&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Três Horas Para Viver",
-      "classificacao": "16",
-      "genero": "Comédia, Ação",
-      "duracao": 97,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "19:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87519290&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87529287&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       }
-      ]
-     }
-    ],
     "2026-10-31": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",

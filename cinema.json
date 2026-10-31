@@ -1,26 +1,11 @@
 {
- "atualizado": "2026-10-31T05:35+00:00",
+ "atualizado": "2026-10-31T19:15+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-10-31": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515808&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
      {
       "titulo": "Cara-De-Barro",
       "classificacao": "18",
@@ -85,21 +70,6 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:05",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87516383&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Se Eu Fosse Você 3",
       "classificacao": "10",
       "genero": "Comédia",
@@ -121,12 +91,6 @@
       "duracao": 90,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515796&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
-       },
        {
         "hora": "16:20",
         "sala": "Sala 03",
@@ -1209,21 +1173,6 @@
    "dias": {
     "2026-10-31": [
      {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "15:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87519324&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
       "titulo": "As Dez Vantagens de Morrer Depois de Você",
       "classificacao": "14",
       "genero": "Drama",
@@ -1262,21 +1211,6 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87522499&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "L",
-      "genero": "Animação",
-      "duracao": 83,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522490&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
        }
       ]
      },

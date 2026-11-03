@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T06:42+00:00",
+ "atualizado": "2026-11-03T23:17+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -7,54 +7,12 @@
    "dias": {
     "2026-11-03": [
      {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515850&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515849&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515832&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
       "titulo": "Minha Melhor Amiga",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 119,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
       "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87514280&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 03",
@@ -71,46 +29,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:10",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87516280&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       },
-       {
         "hora": "20:50",
         "sala": "Sala 02",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87516281&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "Se Eu Fosse Você 3",
-      "classificacao": "10",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16859_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87514249&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=se-eu-fosse-voce-3"
-       }
-      ]
-     },
-     {
-      "titulo": "Street Fighter",
-      "classificacao": "14",
-      "genero": "Animação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16917_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87515821&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=street-fighter"
        }
       ]
      },
@@ -771,39 +693,12 @@
    "dias": {
     "2026-11-03": [
      {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "15:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87519388&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
       "titulo": "As Dez Vantagens de Morrer Depois de Você",
       "classificacao": "14",
       "genero": "Drama",
       "duracao": 102,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/14907_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522514&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522511&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       },
        {
         "hora": "20:45",
         "sala": "Sala 03",
@@ -828,36 +723,6 @@
       ]
      },
      {
-      "titulo": "Galinha Pintadinha - O Filme",
-      "classificacao": "L",
-      "genero": "Animação",
-      "duracao": 83,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16929_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522528&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=galinha-pintadinha-o-filme"
-       }
-      ]
-     },
-     {
-      "titulo": "Minha Melhor Amiga",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 119,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16333_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:00",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522522&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=minha-melhor-amiga"
-       }
-      ]
-     },
-     {
       "titulo": "Três Horas Para Viver",
       "classificacao": "16",
       "genero": "Comédia, Ação",
@@ -865,37 +730,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
       "sessoes": [
        {
-        "hora": "17:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87519373&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       },
-       {
-        "hora": "19:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87519322&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 02",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87529187&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       }
-      ]
-     },
-     {
-      "titulo": "Um Tio Quase Perfeito 3",
-      "classificacao": "6",
-      "genero": "Comédia",
-      "duracao": 95,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17108_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87522515&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=um-tio-quase-perfeito-3"
        }
       ]
      }

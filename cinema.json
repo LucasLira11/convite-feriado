@@ -1,41 +1,11 @@
 {
- "atualizado": "2026-11-05T17:21+00:00",
+ "atualizado": "2026-11-05T23:36+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-11-05": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618140&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
-      "titulo": "Assalto à Brasileira",
-      "classificacao": "12",
-      "genero": "Comédia, Ação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16647_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618158&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=assalto-a-brasileira"
-       }
-      ]
-     },
      {
       "titulo": "Cara-De-Barro",
       "classificacao": "18",
@@ -67,66 +37,12 @@
       ]
      },
      {
-      "titulo": "O Bosque Selvagem",
-      "classificacao": "14",
-      "genero": "Fantasia, Família, Aventura, Animação",
-      "duracao": 130,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618202&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618242&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618134&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:55",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618190&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "17:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618167&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "19:05",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618217&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "21:10",
         "sala": "Sala 02",
@@ -1352,33 +1268,12 @@
    "dias": {
     "2026-11-05": [
      {
-      "titulo": "As Dez Vantagens de Morrer Depois de Você",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 102,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/14907_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613645&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       }
-      ]
-     },
-     {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
       "genero": "Ficção-científica, Drama, Aventura, Ação",
       "duracao": 135,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17569_medio.jpg",
       "sessoes": [
-       {
-        "hora": "18:25",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87613599&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 01",
@@ -1388,17 +1283,17 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
       "sessoes": [
        {
-        "hora": "16:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613594&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615960&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
        }
       ]
      },
@@ -1410,43 +1305,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613609&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:35",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613742&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613832&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
         "hora": "20:45",
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87613587&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     },
-     {
-      "titulo": "Três Horas Para Viver",
-      "classificacao": "16",
-      "genero": "Comédia, Ação",
-      "duracao": 97,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
        }
       ]
      }
@@ -1485,6 +1347,27 @@
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87613896&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
+       }
+      ]
+     },
+     {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615956&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615962&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
        }
       ]
      },
@@ -1596,6 +1479,27 @@
       ]
      },
      {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615987&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615948&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       }
+      ]
+     },
+     {
       "titulo": "O Gatola da Cartola",
       "classificacao": "6",
       "genero": "Animação",
@@ -1699,6 +1603,27 @@
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87613791&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
+       }
+      ]
+     },
+     {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615953&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615949&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
        }
       ]
      },
@@ -1810,6 +1735,27 @@
       ]
      },
      {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615969&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615988&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       }
+      ]
+     },
+     {
       "titulo": "O Gatola da Cartola",
       "classificacao": "6",
       "genero": "Animação",
@@ -1917,6 +1863,27 @@
       ]
      },
      {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615994&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615951&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       }
+      ]
+     },
+     {
       "titulo": "O Gatola da Cartola",
       "classificacao": "6",
       "genero": "Animação",
@@ -2020,6 +1987,27 @@
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87613542&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
+       }
+      ]
+     },
+     {
+      "titulo": "Klara e o Sol",
+      "classificacao": "12",
+      "genero": "Drama",
+      "duracao": 117,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:45",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87615952&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87615971&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
        }
       ]
      },

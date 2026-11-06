@@ -1,57 +1,10 @@
 {
- "atualizado": "2026-11-05T23:36+00:00",
+ "atualizado": "2026-11-06T06:35+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-11-05": [
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:10",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618194&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Feito Pipa",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 93,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17436_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618212&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=feito-pipa"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618153&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-07": [
      {
       "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
@@ -1266,53 +1219,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-11-05": [
-     {
-      "titulo": "Godzilla Minus Zero",
-      "classificacao": "16",
-      "genero": "Ficção-científica, Drama, Aventura, Ação",
-      "duracao": 135,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17569_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87613601&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       }
-      ]
-     },
-     {
-      "titulo": "Klara e o Sol",
-      "classificacao": "12",
-      "genero": "Drama",
-      "duracao": 117,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87615960&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613587&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-06": [
      {
       "titulo": "As Dez Vantagens de Morrer Depois de Você",

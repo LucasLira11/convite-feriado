@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T00:32+00:00",
+ "atualizado": "2026-11-08T17:54+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -88,12 +88,6 @@
       "duracao": 81,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618229&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
        {
         "hora": "16:15",
         "sala": "Sala 01",
@@ -1148,12 +1142,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
       "sessoes": [
        {
-        "hora": "13:55",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613608&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
         "hora": "16:10",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -1168,12 +1156,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613638&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "16:35",
         "sala": "Sala 02",

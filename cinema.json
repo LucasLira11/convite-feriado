@@ -1,26 +1,11 @@
 {
- "atualizado": "2026-11-09T06:18+00:00",
+ "atualizado": "2026-11-09T19:45+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-11-09": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618193&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
      {
       "titulo": "Assalto à Brasileira",
       "classificacao": "12",
@@ -89,18 +74,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618176&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:15",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618165&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
         "hora": "18:30",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -115,12 +88,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:55",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618197&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "17:00",
         "sala": "Sala 02",
@@ -1004,39 +971,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "13:55",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613837&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613774&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613773&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "16:35",
         "sala": "Sala 02",
@@ -1054,21 +994,6 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87613512&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     },
-     {
-      "titulo": "Três Horas Para Viver",
-      "classificacao": "16",
-      "genero": "Comédia, Ação",
-      "duracao": 97,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613644&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
        }
       ]
      }

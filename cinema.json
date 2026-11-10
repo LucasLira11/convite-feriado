@@ -1,41 +1,11 @@
 {
- "atualizado": "2026-11-10T03:32+00:00",
+ "atualizado": "2026-11-10T21:16+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-11-10": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618216&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
-     {
-      "titulo": "Assalto à Brasileira",
-      "classificacao": "12",
-      "genero": "Comédia, Ação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16647_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618261&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=assalto-a-brasileira"
-       }
-      ]
-     },
      {
       "titulo": "Cara-De-Barro",
       "classificacao": "18",
@@ -89,18 +59,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618171&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:15",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618177&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
         "hora": "18:30",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -115,18 +73,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:55",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618178&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "17:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618185&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "19:05",
         "sala": "Sala 02",
@@ -282,7 +228,7 @@
     "2026-11-18": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -299,7 +245,7 @@
     "2026-11-19": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -322,7 +268,7 @@
     "2026-11-20": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -345,7 +291,7 @@
     "2026-11-21": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -368,7 +314,7 @@
     "2026-11-22": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -391,7 +337,7 @@
     "2026-11-23": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -414,7 +360,7 @@
     "2026-11-24": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -437,7 +383,7 @@
     "2026-11-25": [
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "",
+      "classificacao": "A16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -810,21 +756,6 @@
    "dias": {
     "2026-11-10": [
      {
-      "titulo": "As Dez Vantagens de Morrer Depois de Você",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 102,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/14907_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613653&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       }
-      ]
-     },
-     {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
       "genero": "Ficção-científica, Drama, Aventura, Ação",
@@ -867,45 +798,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "13:55",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613723&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613787&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613619&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:35",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613909&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 02",
@@ -917,21 +815,6 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87613597&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     },
-     {
-      "titulo": "Três Horas Para Viver",
-      "classificacao": "16",
-      "genero": "Comédia, Ação",
-      "duracao": 97,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613914&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
        }
       ]
      }

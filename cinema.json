@@ -1,26 +1,11 @@
 {
- "atualizado": "2026-11-11T01:15+00:00",
+ "atualizado": "2026-11-11T19:33+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
     "2026-11-11": [
-     {
-      "titulo": "As Aventuras de Tadeo e a Lâmpada Mágica",
-      "classificacao": "10",
-      "genero": "Animação",
-      "duracao": 92,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16716_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618188&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-aventuras-de-tadeo-e-a-lampada-magica"
-       }
-      ]
-     },
      {
       "titulo": "Assalto à Brasileira",
       "classificacao": "12",
@@ -89,12 +74,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618203&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
         "hora": "16:15",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -115,12 +94,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:55",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618265&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "17:00",
         "sala": "Sala 02",
@@ -143,6 +116,33 @@
      }
     ],
     "2026-11-12": [
+     {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667032&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667012&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667019&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
      {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
@@ -236,6 +236,33 @@
     ],
     "2026-11-13": [
      {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667025&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667023&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667031&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
+     {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
@@ -327,6 +354,33 @@
      }
     ],
     "2026-11-14": [
+     {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667034&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667038&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667071&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
      {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
@@ -420,6 +474,33 @@
     ],
     "2026-11-15": [
      {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667040&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667048&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667062&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
+     {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
@@ -511,6 +592,33 @@
      }
     ],
     "2026-11-16": [
+     {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667050&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667085&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667056&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
      {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
@@ -604,6 +712,33 @@
     ],
     "2026-11-17": [
      {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667063&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667070&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667078&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
+     {
       "titulo": "O Bosque Selvagem",
       "classificacao": "14",
       "genero": "Fantasia, Família, Aventura, Animação",
@@ -695,6 +830,33 @@
      }
     ],
     "2026-11-18": [
+     {
+      "titulo": "Ebenezer e os Fantasmas do Natal",
+      "classificacao": "12",
+      "genero": "Fantasia",
+      "duracao": 115,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:20",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667094&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "18:45",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667090&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87667089&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
+       }
+      ]
+     },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
@@ -1366,39 +1528,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "13:55",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613741&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613785&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613781&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "16:35",
         "sala": "Sala 02",
@@ -1418,24 +1553,45 @@
         "link": "https://checkout.ingresso.com/?sessionId=87613844&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
-     },
-     {
-      "titulo": "Três Horas Para Viver",
-      "classificacao": "16",
-      "genero": "Comédia, Ação",
-      "duracao": 97,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17089_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87613622&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=tres-horas-para-viver"
-       }
-      ]
      }
     ],
     "2026-11-12": [
+     {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664084&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87664175&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664173&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
      {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
@@ -1508,6 +1664,42 @@
     ],
     "2026-11-13": [
      {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664200&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87663855&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664066&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
+     {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
       "genero": "Ficção-científica, Drama, Aventura, Ação",
@@ -1578,6 +1770,42 @@
      }
     ],
     "2026-11-14": [
+     {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664049&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87663860&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664197&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
      {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
@@ -1650,6 +1878,42 @@
     ],
     "2026-11-15": [
      {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87663865&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87664043&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87663987&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
+     {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
       "genero": "Ficção-científica, Drama, Aventura, Ação",
@@ -1720,6 +1984,42 @@
      }
     ],
     "2026-11-16": [
+     {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664100&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87664555&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664192&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
      {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
@@ -1792,6 +2092,42 @@
     ],
     "2026-11-17": [
      {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664129&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87664195&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
+     {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",
       "genero": "Ficção-científica, Drama, Aventura, Ação",
@@ -1862,6 +2198,42 @@
      }
     ],
     "2026-11-18": [
+     {
+      "titulo": "A Virada: Ignição da Alma",
+      "classificacao": "10",
+      "genero": "Drama",
+      "duracao": 123,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:35",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87664046&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Como Roubar um Banco",
+      "classificacao": "16",
+      "genero": "Crime",
+      "duracao": 121,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:40",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87664282&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 01",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87664134&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
+       }
+      ]
+     },
      {
       "titulo": "Godzilla Minus Zero",
       "classificacao": "16",

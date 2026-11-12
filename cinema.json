@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T02:14+00:00",
+ "atualizado": "2026-11-12T19:52+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 115,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667032&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
        {
         "hora": "18:45",
         "sala": "Sala 02",
@@ -49,39 +43,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:15",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667014&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667022&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87667011&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "16:50",
         "sala": "Sala 01",
@@ -850,7 +817,7 @@
     "2026-11-19": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -894,7 +861,7 @@
     "2026-11-20": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -938,7 +905,7 @@
     "2026-11-21": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -982,7 +949,7 @@
     "2026-11-22": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -1026,7 +993,7 @@
     "2026-11-23": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -1070,7 +1037,7 @@
     "2026-11-24": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -1114,7 +1081,7 @@
     "2026-11-25": [
      {
       "titulo": "Eu Sou o Rocky",
-      "classificacao": "",
+      "classificacao": "A14",
       "genero": "Drama",
       "duracao": 128,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
@@ -1559,54 +1526,12 @@
       ]
      },
      {
-      "titulo": "Godzilla Minus Zero",
-      "classificacao": "16",
-      "genero": "Ficção-científica, Drama, Aventura, Ação",
-      "duracao": 135,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17569_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664180&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       }
-      ]
-     },
-     {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:05",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664034&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664048&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87664092&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "16:35",
         "sala": "Sala 02",

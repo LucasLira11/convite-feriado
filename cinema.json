@@ -1,120 +1,10 @@
 {
- "atualizado": "2026-11-11T19:33+00:00",
+ "atualizado": "2026-11-12T02:14+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-11-11": [
-     {
-      "titulo": "Assalto à Brasileira",
-      "classificacao": "12",
-      "genero": "Comédia, Ação",
-      "duracao": 90,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16647_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618255&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=assalto-a-brasileira"
-       }
-      ]
-     },
-     {
-      "titulo": "Cara-De-Barro",
-      "classificacao": "18",
-      "genero": "Terror, Aventura, Ação",
-      "duracao": 108,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16891_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:10",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618248&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=cara-de-barro"
-       }
-      ]
-     },
-     {
-      "titulo": "Feito Pipa",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 93,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17436_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "20:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618205&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=feito-pipa"
-       }
-      ]
-     },
-     {
-      "titulo": "O Bosque Selvagem",
-      "classificacao": "14",
-      "genero": "Fantasia, Família, Aventura, Animação",
-      "duracao": 130,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:40",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618233&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618251&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "18:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87618204&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618189&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "19:05",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618199&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "21:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87618200&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-12": [
      {
       "titulo": "Ebenezer e os Fantasmas do Natal",
@@ -959,6 +849,27 @@
     ],
     "2026-11-19": [
      {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688825&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688498&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
+     {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
       "genero": "Aventura",
@@ -981,6 +892,27 @@
      }
     ],
     "2026-11-20": [
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688807&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688501&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
@@ -1005,6 +937,27 @@
     ],
     "2026-11-21": [
      {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688900&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688503&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
+     {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
       "genero": "Aventura",
@@ -1027,6 +980,27 @@
      }
     ],
     "2026-11-22": [
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688888&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688515&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
@@ -1051,6 +1025,27 @@
     ],
     "2026-11-23": [
      {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688906&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688419&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
+     {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
       "genero": "Aventura",
@@ -1074,6 +1069,27 @@
     ],
     "2026-11-24": [
      {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688902&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688462&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
+     {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
       "genero": "Aventura",
@@ -1096,6 +1112,27 @@
      }
     ],
     "2026-11-25": [
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "",
+      "genero": "Drama",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "18:30",
+        "sala": "Sala 02",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688898&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       },
+       {
+        "hora": "21:00",
+        "sala": "Sala 02",
+        "audio": "LEG",
+        "link": "https://checkout.ingresso.com/?sessionId=87688500&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
       "classificacao": "A16",
@@ -1469,92 +1506,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-11-11": [
-     {
-      "titulo": "As Dez Vantagens de Morrer Depois de Você",
-      "classificacao": "14",
-      "genero": "Drama",
-      "duracao": 102,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/14907_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613650&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=as-dez-vantagens-de-morrer-depois-de-voce"
-       }
-      ]
-     },
-     {
-      "titulo": "Godzilla Minus Zero",
-      "classificacao": "16",
-      "genero": "Ficção-científica, Drama, Aventura, Ação",
-      "duracao": 135,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17569_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:25",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87613790&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87613542&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       }
-      ]
-     },
-     {
-      "titulo": "Klara e o Sol",
-      "classificacao": "12",
-      "genero": "Drama",
-      "duracao": 117,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17448_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87615952&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87615971&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=klara-e-o-sol"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:35",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613658&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613784&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "20:45",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87613844&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-12": [
      {
       "titulo": "A Virada: Ignição da Alma",
@@ -1568,6 +1519,21 @@
         "sala": "Sala 03",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87664084&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688077&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
        }
       ]
      },
@@ -1679,6 +1645,21 @@
       ]
      },
      {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688259&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
+       }
+      ]
+     },
+     {
       "titulo": "Como Roubar um Banco",
       "classificacao": "16",
       "genero": "Crime",
@@ -1782,6 +1763,21 @@
         "sala": "Sala 03",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87664049&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688075&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
        }
       ]
      },
@@ -1893,6 +1889,21 @@
       ]
      },
      {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688078&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
+       }
+      ]
+     },
+     {
       "titulo": "Como Roubar um Banco",
       "classificacao": "16",
       "genero": "Crime",
@@ -1996,6 +2007,21 @@
         "sala": "Sala 03",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87664100&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688076&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
        }
       ]
      },
@@ -2107,6 +2133,21 @@
       ]
      },
      {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688074&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
+       }
+      ]
+     },
+     {
       "titulo": "Como Roubar um Banco",
       "classificacao": "16",
       "genero": "Crime",
@@ -2210,6 +2251,21 @@
         "sala": "Sala 03",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87664046&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
+       }
+      ]
+     },
+     {
+      "titulo": "Boiúna - Terror no Amazonas",
+      "classificacao": "18",
+      "genero": "Thriller, Terror, Suspense",
+      "duracao": 103,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17605_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "21:00",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87688079&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=boiuna-terror-no-amazonas"
        }
       ]
      },

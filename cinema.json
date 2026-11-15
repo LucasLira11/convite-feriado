@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T06:21+00:00",
+ "atualizado": "2026-11-15T22:46+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -14,58 +14,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667040&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
-       {
-        "hora": "18:45",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667048&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 02",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87667062&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       }
-      ]
-     },
-     {
-      "titulo": "O Bosque Selvagem",
-      "classificacao": "14",
-      "genero": "Fantasia, Família, Aventura, Animação",
-      "duracao": 130,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17397_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:35",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667053&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-bosque-selvagem"
-       }
-      ]
-     },
-     {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": ""
-       },
-       {
-        "hora": "16:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667072&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
        }
       ]
      },
@@ -76,24 +28,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:45",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87667041&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:50",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87667060&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "18:55",
-        "sala": "Sala 01",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87667059&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 01",
@@ -109,12 +43,6 @@
       "duracao": 101,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/359_medio.jpg",
       "sessoes": [
-       {
-        "hora": "19:05",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87667058&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=velozes-e-furiosos-25-aniversario"
-       },
        {
         "hora": "21:10",
         "sala": "Sala 03",
@@ -1151,21 +1079,6 @@
    "dias": {
     "2026-11-15": [
      {
-      "titulo": "A Virada: Ignição da Alma",
-      "classificacao": "10",
-      "genero": "Drama",
-      "duracao": 123,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17102_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:35",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87663865&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=a-virada-ignicao-da-alma"
-       }
-      ]
-     },
-     {
       "titulo": "Boiúna - Terror no Amazonas",
       "classificacao": "18",
       "genero": "Thriller, Terror, Suspense",
@@ -1188,52 +1101,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17389_medio.jpg",
       "sessoes": [
        {
-        "hora": "18:40",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664043&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
-       },
-       {
         "hora": "21:00",
         "sala": "Sala 01",
         "audio": "LEG",
         "link": "https://checkout.ingresso.com/?sessionId=87663987&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=como-roubar-um-banco"
-       }
-      ]
-     },
-     {
-      "titulo": "Godzilla Minus Zero",
-      "classificacao": "16",
-      "genero": "Ficção-científica, Drama, Aventura, Ação",
-      "duracao": 135,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17569_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664198&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=godzilla-minus-zero"
-       }
-      ]
-     },
-     {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:05",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87663861&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       },
-       {
-        "hora": "16:20",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87664035&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
        }
       ]
      },
@@ -1244,24 +1115,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87664045&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:35",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87663859&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "18:40",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87664591&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "20:45",
         "sala": "Sala 02",

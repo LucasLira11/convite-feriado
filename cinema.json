@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T02:31+00:00",
+ "atualizado": "2026-11-19T20:30+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 115,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738623&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
        {
         "hora": "18:45",
         "sala": "Sala 03",
@@ -50,17 +44,11 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738592&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
        {
         "hora": "17:30",
         "sala": "Sala 01",
@@ -76,39 +64,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738591&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738615&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738616&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 03",
@@ -163,7 +124,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -276,7 +237,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -389,7 +350,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -502,7 +463,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -615,7 +576,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -728,7 +689,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1149,21 +1110,6 @@
    "dias": {
     "2026-11-19": [
      {
-      "titulo": "Camisas Negras",
-      "classificacao": "12",
-      "genero": "Documentário",
-      "duracao": 96,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87717138&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
-       }
-      ]
-     },
-     {
       "titulo": "Eu Sou o Rocky",
       "classificacao": "12",
       "genero": "Biografia",
@@ -1186,7 +1132,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1201,17 +1147,11 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
       "sessoes": [
-       {
-        "hora": "17:00",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87714967&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
        {
         "hora": "20:00",
         "sala": "Sala 01",
@@ -1227,12 +1167,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:35",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87714557&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 03",
@@ -1281,7 +1215,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1296,7 +1230,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1376,7 +1310,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1391,7 +1325,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1486,7 +1420,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1501,7 +1435,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1596,7 +1530,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1611,7 +1545,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1691,7 +1625,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1706,7 +1640,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
@@ -1786,7 +1720,7 @@
      },
      {
       "titulo": "I Love Boosters",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Comédia, Crime",
       "duracao": 113,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17540_medio.jpg",
@@ -1801,7 +1735,7 @@
      },
      {
       "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "A16",
+      "classificacao": "16",
       "genero": "Aventura",
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",

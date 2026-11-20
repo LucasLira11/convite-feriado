@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T02:17+00:00",
+ "atualizado": "2026-11-20T20:08+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -13,12 +13,6 @@
       "duracao": 115,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738611&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
        {
         "hora": "18:45",
         "sala": "Sala 03",
@@ -56,12 +50,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738619&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
-       {
         "hora": "17:30",
         "sala": "Sala 01",
         "audio": "DUB",
@@ -76,39 +64,12 @@
       ]
      },
      {
-      "titulo": "O Gatola da Cartola",
-      "classificacao": "6",
-      "genero": "Animação",
-      "duracao": 81,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16773_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "14:20",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738607&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=o-gatola-da-cartola"
-       }
-      ]
-     },
-     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738593&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738617&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "21:00",
         "sala": "Sala 03",
@@ -914,12 +875,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/15049_medio.jpg",
       "sessoes": [
        {
-        "hora": "10:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87256228&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
-       },
-       {
         "hora": "13:45",
         "sala": "Sala 02",
         "audio": "DUB",
@@ -1036,21 +991,6 @@
    "dias": {
     "2026-11-20": [
      {
-      "titulo": "Camisas Negras",
-      "classificacao": "12",
-      "genero": "Documentário",
-      "duracao": 96,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87717127&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
-       }
-      ]
-     },
-     {
       "titulo": "Eu Sou o Rocky",
       "classificacao": "12",
       "genero": "Biografia",
@@ -1114,12 +1054,6 @@
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:35",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87714699&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "18:40",
         "sala": "Sala 03",

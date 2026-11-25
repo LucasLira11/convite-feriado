@@ -1,42 +1,10 @@
 {
- "atualizado": "2026-11-24T23:52+00:00",
+ "atualizado": "2026-11-25T08:24+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-11-24": [
-     {
-      "titulo": "Eu Sou o Rocky",
-      "classificacao": "12",
-      "genero": "Biografia",
-      "duracao": 128,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87688462&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738613&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-25": [
      {
       "titulo": "Ebenezer e os Fantasmas do Natal",
@@ -87,12 +55,6 @@
       "duracao": 158,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738632&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
        {
         "hora": "17:30",
         "sala": "Sala 01",

@@ -1,75 +1,10 @@
 {
- "atualizado": "2026-11-25T19:13+00:00",
+ "atualizado": "2026-11-26T03:31+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
    "url": "https://cineshow.com.br/cadima-shopping/programacao",
    "dias": {
-    "2026-11-25": [
-     {
-      "titulo": "Ebenezer e os Fantasmas do Natal",
-      "classificacao": "12",
-      "genero": "Fantasia",
-      "duracao": 115,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17159_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:15",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738604&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       },
-       {
-        "hora": "18:45",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87738606&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=ebenezer-e-os-fantasmas-do-natal"
-       }
-      ]
-     },
-     {
-      "titulo": "Eu Sou o Rocky",
-      "classificacao": "12",
-      "genero": "Biografia",
-      "duracao": 128,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87688898&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87688500&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
-       }
-      ]
-     },
-     {
-      "titulo": "Os Farofeiros 3",
-      "classificacao": "12",
-      "genero": "Comédia",
-      "duracao": 103,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:40",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738631&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
-       {
-        "hora": "21:00",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87738601&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       }
-      ]
-     }
-    ],
     "2026-11-26": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -681,12 +616,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/15049_medio.jpg",
       "sessoes": [
        {
-        "hora": "00:01",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87243758&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=vingadores-doutor-destino"
-       },
-       {
         "hora": "00:10",
         "sala": "Sala 01",
         "audio": "LEG",
@@ -1017,65 +946,6 @@
    "nome": "Cine Show · Friburgo Shopping",
    "url": "https://cineshow.com.br/friburgo-shopping/programacao",
    "dias": {
-    "2026-11-25": [
-     {
-      "titulo": "Camisas Negras",
-      "classificacao": "12",
-      "genero": "Documentário",
-      "duracao": 96,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "16:00",
-        "sala": "Sala 02",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87717141&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
-       }
-      ]
-     },
-     {
-      "titulo": "Eu Sou o Rocky",
-      "classificacao": "12",
-      "genero": "Biografia",
-      "duracao": 128,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "18:00",
-        "sala": "Sala 02",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87714975&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
-       },
-       {
-        "hora": "20:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87714674&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
-       }
-      ]
-     },
-     {
-      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
-      "classificacao": "16",
-      "genero": "Aventura",
-      "duracao": 158,
-      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
-      "sessoes": [
-       {
-        "hora": "17:00",
-        "sala": "Sala 01",
-        "audio": "LEG",
-        "link": "https://checkout.ingresso.com/?sessionId=87714682&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
-       {
-        "hora": "20:00",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87714584&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       }
-      ]
-     }
-    ],
     "2026-11-26": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",

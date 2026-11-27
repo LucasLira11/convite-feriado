@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T01:41+00:00",
+ "atualizado": "2026-11-27T21:11+00:00",
  "cinemas": {
   "cadima": {
    "nome": "Cine Show · Cadima Shopping",
@@ -8,23 +8,11 @@
     "2026-11-27": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87773174&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
-       },
-       {
-        "hora": "16:40",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87773294&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
-       },
        {
         "hora": "18:50",
         "sala": "Sala 02",
@@ -40,12 +28,6 @@
       "duracao": 105,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16872_medio.jpg",
       "sessoes": [
-       {
-        "hora": "16:50",
-        "sala": "Sala 03",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87773287&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=entrando-numa-grande-fria"
-       },
        {
         "hora": "19:00",
         "sala": "Sala 03",
@@ -70,18 +52,27 @@
       ]
      },
      {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773331&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       }
+      ]
+     },
+     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:30",
-        "sala": "Sala 03",
-        "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87773479&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
-       },
        {
         "hora": "21:05",
         "sala": "Sala 03",
@@ -94,7 +85,7 @@
     "2026-11-28": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -156,6 +147,33 @@
       ]
      },
      {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773342&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773403&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773295&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       }
+      ]
+     },
+     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
@@ -180,7 +198,7 @@
     "2026-11-29": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -242,6 +260,33 @@
       ]
      },
      {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773201&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773279&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773478&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       }
+      ]
+     },
+     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
@@ -266,7 +311,7 @@
     "2026-11-30": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -328,6 +373,33 @@
       ]
      },
      {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773210&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773486&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773304&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       }
+      ]
+     },
+     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
@@ -352,7 +424,7 @@
     "2026-12-01": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -414,6 +486,33 @@
       ]
      },
      {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773488&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773356&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773243&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       }
+      ]
+     },
+     {
       "titulo": "Os Farofeiros 3",
       "classificacao": "12",
       "genero": "Comédia",
@@ -438,7 +537,7 @@
     "2026-12-02": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -496,6 +595,33 @@
         "sala": "Sala 02",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87773352&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
+       }
+      ]
+     },
+     {
+      "titulo": "Jogos Vorazes - Amanhecer na Colheita",
+      "classificacao": "16",
+      "genero": "Aventura",
+      "duracao": 158,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "14:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773293&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "17:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773353&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
+       },
+       {
+        "hora": "20:30",
+        "sala": "Sala 01",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87773351&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
        }
       ]
      },
@@ -863,23 +989,11 @@
     "2026-11-27": [
      {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
       "sessoes": [
-       {
-        "hora": "14:10",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87777449&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
-       },
-       {
-        "hora": "16:25",
-        "sala": "Sala 01",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87777432&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
-       },
        {
         "hora": "18:30",
         "sala": "Sala 01",
@@ -896,12 +1010,6 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16097_medio.jpg",
       "sessoes": [
        {
-        "hora": "17:00",
-        "sala": "Sala 02",
-        "audio": "DUB",
-        "link": "https://checkout.ingresso.com/?sessionId=87777601&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=jogos-vorazes-amanhecer-na-colheita"
-       },
-       {
         "hora": "20:00",
         "sala": "Sala 02",
         "audio": "LEG",
@@ -917,10 +1025,10 @@
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16672_medio.jpg",
       "sessoes": [
        {
-        "hora": "14:55",
-        "sala": "Sala 02",
+        "hora": "18:30",
+        "sala": "Sala 03",
         "audio": "NAC",
-        "link": "https://checkout.ingresso.com/?sessionId=87777435&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+        "link": "https://checkout.ingresso.com/?sessionId=87811115&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
@@ -942,8 +1050,23 @@
     ],
     "2026-11-28": [
      {
+      "titulo": "Camisas Negras",
+      "classificacao": "12",
+      "genero": "Documentário",
+      "duracao": 96,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811132&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
+       }
+      ]
+     },
+     {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -965,6 +1088,21 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87777438&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
+       }
+      ]
+     },
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "12",
+      "genero": "Biografia",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87811140&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
        }
       ]
      },
@@ -1001,6 +1139,12 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87777453&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811114&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
@@ -1022,8 +1166,23 @@
     ],
     "2026-11-29": [
      {
+      "titulo": "Camisas Negras",
+      "classificacao": "12",
+      "genero": "Documentário",
+      "duracao": 96,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811135&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
+       }
+      ]
+     },
+     {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -1045,6 +1204,21 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87777440&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
+       }
+      ]
+     },
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "12",
+      "genero": "Biografia",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87811142&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
        }
       ]
      },
@@ -1081,6 +1255,12 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87777439&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811110&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
@@ -1102,8 +1282,23 @@
     ],
     "2026-11-30": [
      {
+      "titulo": "Camisas Negras",
+      "classificacao": "12",
+      "genero": "Documentário",
+      "duracao": 96,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811138&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
+       }
+      ]
+     },
+     {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -1125,6 +1320,21 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87777452&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
+       }
+      ]
+     },
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "12",
+      "genero": "Biografia",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87811120&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
        }
       ]
      },
@@ -1161,6 +1371,12 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87777478&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811118&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
@@ -1182,8 +1398,23 @@
     ],
     "2026-12-01": [
      {
+      "titulo": "Camisas Negras",
+      "classificacao": "12",
+      "genero": "Documentário",
+      "duracao": 96,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811137&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
+       }
+      ]
+     },
+     {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -1205,6 +1436,21 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87777443&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
+       }
+      ]
+     },
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "12",
+      "genero": "Biografia",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87811131&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
        }
       ]
      },
@@ -1241,6 +1487,12 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87777448&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811125&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
@@ -1262,8 +1514,23 @@
     ],
     "2026-12-02": [
      {
+      "titulo": "Camisas Negras",
+      "classificacao": "12",
+      "genero": "Documentário",
+      "duracao": 96,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17769_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "16:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811134&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=camisas-negras"
+       }
+      ]
+     },
+     {
       "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
-      "classificacao": "6",
+      "classificacao": "10",
       "genero": "Animação",
       "duracao": 103,
       "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/16921_medio.jpg",
@@ -1285,6 +1552,21 @@
         "sala": "Sala 01",
         "audio": "DUB",
         "link": "https://checkout.ingresso.com/?sessionId=87777459&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=enfeiticadas-bem-vindos-a-hexe"
+       }
+      ]
+     },
+     {
+      "titulo": "Eu Sou o Rocky",
+      "classificacao": "12",
+      "genero": "Biografia",
+      "duracao": 128,
+      "poster": "https://static3.moviehub.com.br/fotos/filmes/poster/17326_medio.jpg",
+      "sessoes": [
+       {
+        "hora": "20:40",
+        "sala": "Sala 03",
+        "audio": "DUB",
+        "link": "https://checkout.ingresso.com/?sessionId=87811151&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=eu-sou-o-rocky"
        }
       ]
      },
@@ -1321,6 +1603,12 @@
         "sala": "Sala 02",
         "audio": "NAC",
         "link": "https://checkout.ingresso.com/?sessionId=87777456&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
+       },
+       {
+        "hora": "18:30",
+        "sala": "Sala 03",
+        "audio": "NAC",
+        "link": "https://checkout.ingresso.com/?sessionId=87811112&partnership=cineshow&ing_source=api&ing_medium=link-checkout&ing_campaign=cineshow&ing_content=os-farofeiros-3"
        }
       ]
      },
